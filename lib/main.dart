@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:jobsheet11/first_screen.dart';
 import 'login_page.dart';
 
 void main() => runApp(MyApp());
+
 
 class MyApp extends StatelessWidget {
   @override
@@ -13,6 +15,10 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: LoginPage(),
+       routes: {
+  '/signin': (contex) => LoginPage(),
+  '/firstScreen': (conntex) => FirstScreen(),
+},
     );
   }
 }

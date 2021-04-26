@@ -1,5 +1,9 @@
 # jobsheet11
-
+![plot](./hasil/hasil1.jpg)
+![plot](./hasil/hasil2.jpg)
+![plot](./hasil/hasil3.jpg)
+![plot](./hasil/hasil4.jpg)
+![plot](./hasil/hasil5.jpg)
 A new Flutter project.
 
 ## Getting Started
